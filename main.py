@@ -2,3 +2,5 @@ from src.ui.menu import menu_principal
 
 if __name__ == "__main__":
     menu_principal()
+
+# tutorial de git
