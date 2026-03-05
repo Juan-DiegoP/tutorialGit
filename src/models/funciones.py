@@ -158,4 +158,7 @@ class EventoEspecial(Funcion):
         Restricción de edad para eventos especiales.
         """
         return "Mayores de 18"
+    
+def tutorial():
+    print("tutorial git y github")
 
